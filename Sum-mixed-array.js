@@ -21,3 +21,5 @@ function sumMix (x) {
   }
   return result;
 }
+
+// 
