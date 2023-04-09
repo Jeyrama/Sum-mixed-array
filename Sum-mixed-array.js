@@ -22,4 +22,4 @@ function sumMix (x) {
   return result;
 }
 
-// 
+// or
